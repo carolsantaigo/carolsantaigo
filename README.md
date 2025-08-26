@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">Uma desenvolvedora front-end apaixonada da Índia</h3>
+<h3 align="center">Uma desenvolvedora Back-End</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
