@@ -1,4 +1,4 @@
-## Olá, mundo! 👋
+## Olá, eu sou a carol! 👋
 
 <h3 align="center">Uma desenvolvedora Back-End</h3>
 
